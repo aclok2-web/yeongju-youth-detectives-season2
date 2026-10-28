@@ -36,3 +36,5 @@ body[data-season="2"] .s2-law-notice{padding:12px;font-size:11px}
 body[data-season="2"] .s2-law-notice b{font-size:14px}
 body[data-season="2"] .s2-site-header{align-items:flex-start}.s2-site-header span{max-width:130px;text-align:right}
 }
+
+.s2-fake-link{display:block;width:100%;text-align:left;background:transparent!important;color:#1964af!important;border:0!important;border-radius:0!important;padding:12px 0!important;font-size:15px!important;text-decoration:underline}.s2-home-banner{padding:34px 18px;background:linear-gradient(#00121c55,#00121cc9),url("./casino-site-bg.png") center/cover;border:1px solid #bca16b;border-radius:14px;margin:22px 0;text-align:center}.s2-home-banner h1{color:#f1d598;letter-spacing:3px}.s2-home-banner span{font-size:11px;color:#e0c693}.s2-start-card{max-width:620px;margin:25px auto!important;padding:32px 22px!important}.s2-start-card h1{font-size:34px}.s2-start-card>button{width:100%;margin-top:18px}
